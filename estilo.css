@@ -1,0 +1,9 @@
+body { margin: 0; background: #f7f6f3; color: #1d1d1b; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 42rem; margin: 0 auto; padding: 3rem 1.25rem; }
+h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 1rem; }
+h2 { font-size: 1.15rem; margin: 2rem 0 .5rem; }
+a { color: #b3261e; }
+@media (prefers-color-scheme: dark) {
+  body { background: #161615; color: #e9e7e2; }
+  a { color: #ff8a80; }
+}
